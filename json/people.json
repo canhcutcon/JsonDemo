@@ -1,0 +1,23 @@
+[
+	{
+		"firstName": "John",
+		"lastName": "Tran",
+		"age": 30,
+		"address": {
+			"streetAddress": "12 Nguyễn Văn Bảo, phường 4, Gò Vấp ",
+			"city": "HCM",
+			"state": "Việt Nam",
+			"postalCode": 10000
+		},
+		"phoneNumbers": [
+			{
+				"type": "Mobil",
+				"number": "0912333444"
+			},
+			{
+				"type": "Vietel",
+				"number": "0984444555"
+			}
+		]
+	}
+]
